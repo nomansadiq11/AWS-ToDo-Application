@@ -12,3 +12,8 @@ In the repo there is folder called “Application_Deployment” which has deploy
 
 ## Application Infrastructure on AWS
 In the repo there is folder called “AWS-Infra-Prevision” this has all the terraform file which used to prevision the infrastructure on AWS. 
+
+
+## Mongo DB Setup
+
+I unable to do this, I don't have much experience in mongo db maybe I need more time or support to achieve. 
