@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+
+# Ignore terraform
+/AWS-Infra-Prevision/.terraform
+/AWS-Infra-Prevision/terraform.tfstate
+/AWS-Infra-Prevision/terraform.tfstate.backup
